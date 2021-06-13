@@ -9,6 +9,10 @@ mock = "*"
 pytest-testdox = "*"
 toml = "*"
 flask = "*"
+flask-sqlalchemy = "*"
+flask-script = "*"
+flask-migrate = "*"
+flask-bcrypt = "*"
 
 [dev-packages]
 
